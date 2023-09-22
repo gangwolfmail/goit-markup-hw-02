@@ -172,6 +172,7 @@ letter-spacing: 0.32px;
     line-height: 1.17;
     letter-spacing: 0.54px;
     text-transform: uppercase;
+    text-decoration: none;
     color: #4d5ae5;
 }
 .accent-footer {
